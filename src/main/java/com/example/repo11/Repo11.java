@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Repo11 {
 
-    // Enum for course status
+    // Enum for course statuss
     enum CourseStatus {
         ACTIVE, INACTIVE
     }
